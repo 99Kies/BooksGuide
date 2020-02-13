@@ -8,7 +8,7 @@ issue-name:
     《书名》 - 作者或者编著之一二
 issue-body:
     《书名》 - (版本/作者)
-    [大标签-小标签](ps: 从readme中选择或者自选)
+    * [大标签-小标签](ps: 从readme中选择或者自选)
     书籍简介
     推荐✔/不推荐❌
     简单阐述推荐✔/不推荐❌的理由
@@ -25,7 +25,36 @@ issue-body:
 
 ## 踩坑中ing
 
+
+### 《Flask Web 开发实战：入门、进阶与原理解析》 - (第一版/李辉)
+- 2020.2.14
+
+<strong>简介</strong>
+
+Flask框架从入门到入坑的书籍
+
+<strong>推荐✔</strong>
+
+<strong>推荐理由</strong> 
+
+十分详细的Flask开发书籍，比国外的狗书易懂，适合基础薄弱的同学阅读，书中有多个开发实例，如果是基础薄弱又有时间的同学，十分推荐这本书。
+
+<strong>封面</strong>
+
+<div align=center><img src="Books\《Docker技术入门与实践》- (第三版杨保华戴王剑曹亚仑)\images\book.jpg" width="50%" /></div>
+
+<strong>入手价格</strong>
+
+<div align=center><img src="Books\《Docker技术入门与实践》- (第三版杨保华戴王剑曹亚仑)\images\price.jpg" width="50%" /></div>
+
+
+
+
+
+
+
 ### 《Docker技术入门与实践》- (第三版/杨保华|戴王剑|曹亚仑)
+- 2020.2.11
 
 <strong>简介</strong>
 
@@ -44,4 +73,5 @@ issue-body:
 <strong>入手价格</strong>
 
 <div align=center><img src="Books\《Docker技术入门与实践》- (第三版杨保华戴王剑曹亚仑)\images\price.jpg" width="50%" /></div>
+
 
