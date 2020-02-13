@@ -33,6 +33,30 @@ issue-body:
 
 #### Python
 
+##### 《Flask Web 开发实战：入门、进阶与原理解析》- (第一版/李辉)
+
+- 2020.2.14
+
+<strong>简介</strong>
+
+Flask框架从入门到入坑的书籍
+
+<strong>推荐✔</strong>
+
+<strong>推荐理由</strong> 
+
+十分详细的Flask开发书籍，比国外的狗书易懂，适合基础薄弱的同学阅读，书中有多个开发实例，如果是基础薄弱又有时间的同学，十分推荐这本书。
+
+<strong>封面</strong>
+
+
+
+<div align=center><img src="Books\《Flask Web 开发实战：入门、进阶与原理解析》 - (第一版李辉)\images\book.jpg" width="50%" /></div>
+
+<strong>入手价格</strong>
+
+<div align=center><img src="Books\《Flask Web 开发实战：入门、进阶与原理解析》 - (第一版李辉)\images\price.jpg" width="50%" /></div>
+
 #### Java
 
 ### 数据结构/算法
@@ -42,6 +66,28 @@ issue-body:
 ### 云方向
 
 #### Docker
+
+##### 《Docker技术入门与实践》- (第三版/杨保华|戴王剑|曹亚仑)
+
+- 2020.2.11
+
+<strong>简介</strong>
+
+关于Docker的技术书籍，以理论为辅实践为主的技术书
+
+<strong>推荐✔</strong>
+
+<strong>推荐理由</strong> 
+
+简单易懂，以实践为主，上手快！！！毕竟实践出真理，要学习Docker的同学 推荐这本书哈~
+
+<strong>封面</strong>
+
+<div align=center><img src="Books\《Docker技术入门与实践》- (第三版杨保华戴王剑曹亚仑)\images\book.jpg" width="50%" /></div>
+
+<strong>入手价格</strong>
+
+<div align=center><img src="Books\《Docker技术入门与实践》- (第三版杨保华戴王剑曹亚仑)\images\price.jpg" width="50%" /></div>
 
 #### Kubernetes
 
