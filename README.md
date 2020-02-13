@@ -26,7 +26,7 @@ issue-body:
 ## 踩坑中ing
 
 
-### 《Flask Web 开发实战：入门、进阶与原理解析》 - (第一版/李辉)
+### 《Flask Web 开发实战：入门、进阶与原理解析》- (第一版/李辉)
 - 2020.2.14
 
 <strong>简介</strong>
@@ -41,15 +41,13 @@ Flask框架从入门到入坑的书籍
 
 <strong>封面</strong>
 
-<div align=center><img src="Books\《Docker技术入门与实践》- (第三版杨保华戴王剑曹亚仑)\images\book.jpg" width="50%" /></div>
+
+
+<div align=center><img src="Books\《Flask Web 开发实战：入门、进阶与原理解析》 - (第一版李辉)\images\book.jpg" width="50%" /></div>
 
 <strong>入手价格</strong>
 
-<div align=center><img src="Books\《Docker技术入门与实践》- (第三版杨保华戴王剑曹亚仑)\images\price.jpg" width="50%" /></div>
-
-
-
-
+<div align=center><img src="Books\《Flask Web 开发实战：入门、进阶与原理解析》 - (第一版李辉)\images\price.jpg" width="50%" /></div>
 
 
 
